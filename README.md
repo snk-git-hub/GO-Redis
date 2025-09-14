@@ -1,4 +1,4 @@
-[![progress-banner](https://backend.codecrafters.io/progress/redis/fbdb9895-82a7-4203-8b25-c95e442626a0)](https://app.codecrafters.io/users/codecrafters-bot?r=2qF)
+<!-- [![progress-banner](https://backend.codecrafters.io/progress/redis/fbdb9895-82a7-4203-8b25-c95e442626a0)](https://app.codecrafters.io/users/codecrafters-bot?r=2qF)
 
 This is a starting point for Go solutions to the
 ["Build Your Own Redis" Challenge](https://codecrafters.io/challenges/redis).
@@ -31,4 +31,4 @@ Note: This section is for stages 2 and beyond.
    `app/main.go`.
 1. Commit your changes and run `git push origin master` to submit your solution
    to CodeCrafters. Test output will be streamed to your terminal.
-# GO-Redis
+# GO-Redis -->
