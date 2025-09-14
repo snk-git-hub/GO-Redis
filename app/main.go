@@ -15,6 +15,7 @@ func main() {
 		os.Exit(1)
 	}
 	defer l.Close()
+	
 for{
 	conn,err:=l.Accept()
 	if err!=nil{
@@ -24,6 +25,7 @@ for{
 	go handleConnection(conn)
  }
 }
+
 func handleConnection(conn net.Conn){
 	defer conn.Close()
 	 _,err := conn.Write([]byte("+PONG\r\n"))
